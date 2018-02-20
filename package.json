@@ -31,6 +31,7 @@
   },
   "dependencies": {
     "boom": "4.0.0",
+    "es6-promisify": "^6.0.0",
     "hoek": "4.1.0",
     "joi": "9.0.4",
     "rbac-core": "3.0.0"
